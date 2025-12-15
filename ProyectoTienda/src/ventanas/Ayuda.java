@@ -41,7 +41,7 @@ public class Ayuda extends JDialog implements ActionListener {
 	 * Create the dialog.
 	 */
 	public Ayuda() {
-		setTitle("Acerca De");
+		setTitle("Acerca Deasdfkl");
 		setBounds(100, 100, 492, 455);
 		getContentPane().setLayout(null);
 		setLocationRelativeTo(null);
